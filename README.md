@@ -1,6 +1,6 @@
 ### 个人简介
 
-你好，我是Zeroization，集美大学软件工程专业大三在读(2025年毕业)
+你好，我是Zeroization，集美大学软件工程专业大四在读(2025年毕业)
 
 欢迎来[我的博客](https://keepfightinghxz.xyz/)玩~
 
