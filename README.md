@@ -1,10 +1,6 @@
 ### 个人简介
 
-一个失败者罢了。
-
-~~欢迎来[我的博客](https://keepfightinghxz.xyz/)玩~~
+欢迎来[我的博客](https://keepfightinghxz.xyz/)玩
 
 ### 现在在干什么
-~~正在学习C++，OpenGL图形API等知识，想要做一个游戏引擎！~~
-
-迷茫，堕落
+正在学习虚幻引擎相关内容
